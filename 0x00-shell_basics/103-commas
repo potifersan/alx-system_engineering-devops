@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amp | sorted -d
+ls -a -p -m
